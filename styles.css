@@ -34,7 +34,7 @@ body {
 
 .logo{
     height: 50px;
-    position: fixed;
+    position:absolute;
 }
 
 .ill{
