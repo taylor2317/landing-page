@@ -110,7 +110,7 @@ img{
     .title {
         font-size: 200%;
     }
-    .desc {
+    .desc, .butt {
         font-size: 100%;
     }
     .socials a{
